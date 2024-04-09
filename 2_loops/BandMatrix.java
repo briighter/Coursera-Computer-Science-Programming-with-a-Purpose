@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
+ *  Name:              Jason Lima
  *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Last modified:     April 09, 2024
  **************************************************************************** */
 
 public class BandMatrix {
@@ -11,8 +11,15 @@ public class BandMatrix {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-
+                if (i == j) {
+                    System.out.print("* ");
+                } else if (w == Math.abs(i - j)) {
+                    System.out.print("* ");
+                } else {
+                    System.out.print("0 ");
+                }
             }
+            System.out.println();
         }
     }
 }
