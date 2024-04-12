@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="" />
+    <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_loops/RandomWalkers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/BandMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/BandMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/RandomWalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/RandomWalkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/BandMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/logo.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +35,26 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "briighter"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="76e66f67-2efd-4970-8ea6-7132397e7c58" />
+        <option name="url" value="https://github.com/briighter/Coursera-Computer-Science-Programming-with-a-Purpose.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2evnueZtFC5ThSGe2uYv2B86m0b" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -39,7 +70,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/jason/Documents/code/coursera/Computer Science Programming with a Purpose"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/jason/Documents/code/coursera/Computer Science Programming with a Purpose",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RunManager">
@@ -66,4 +99,15 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
