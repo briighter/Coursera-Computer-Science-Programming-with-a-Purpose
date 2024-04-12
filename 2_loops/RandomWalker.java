@@ -8,7 +8,7 @@ public class RandomWalker {
         double d2 = 0.50;
         double d3 = 0.75;
         System.out.println("("+ x + ", " + y + ")");
-        while (Math.abs(x) - Math.abs(y) != r) {
+        while (Math.abs(x) - Math.abs(y) != r || Math.abs(x) - Math.abs(y) > r) {
             double direction = Math.random();
             // Go north
             if (direction <= d1) {

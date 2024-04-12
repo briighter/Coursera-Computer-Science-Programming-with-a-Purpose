@@ -8,10 +8,10 @@ public class RandomWalkers {
         double d2 = 0.50;
         double d3 = 0.75;
         int steps = 0;
-        double average = 0;
+        double average;
 
         for (int i = 0; i < trails; i++) {
-            while (Math.abs(x) - Math.abs(y) != r) {
+            while (Math.abs(x) - Math.abs(y) != r || Math.abs(x) - Math.abs(y) > r) {
                 double direction = Math.random();
                 // Go north
                 if (direction <= d1) {

@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_loops/RandomWalkers.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_loops/BandMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/BandMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/BandMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/BandMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/RandomWalker.class" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_loops/RandomWalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_loops/RandomWalkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalkers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_loops/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/BandMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="loops and conditionals latest submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops and conditionals latest submission" />
   </component>
 </project>
