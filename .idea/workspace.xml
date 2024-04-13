@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="">
+    <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="loops and conditionals latest submission">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_loops/BandMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/BandMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_loops/RandomWalker.class" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/BandMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/BandMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_loops/RandomWalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_loops/RandomWalkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalkers.java" afterDir="false" />
     </list>
@@ -33,12 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "briighter"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;briighter&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -61,15 +60,15 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/jason/Documents/code/coursera/Computer Science Programming with a Purpose",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jason/Documents/code/coursera/Computer Science Programming with a Purpose&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />

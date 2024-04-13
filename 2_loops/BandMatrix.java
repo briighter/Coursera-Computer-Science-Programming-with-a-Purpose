@@ -20,18 +20,5 @@ public class BandMatrix {
             }
             System.out.println();
         }
-
-//        for (int i = 0; i < n; i++) {
-//            for (int j = 0; j < n; j++) {
-//                if (i == j) {
-//                    System.out.print(" * ");
-//                } else if (i > j - w && i < j + w) {
-//                    System.out.print(" * ");
-//                } else {
-//                    System.out.print(" 0 ");
-//                }
-//            }
-//            System.out.println();
-//        }
     }
 }

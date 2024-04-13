@@ -11,7 +11,7 @@ public class RandomWalkers {
         double average;
 
         for (int i = 0; i < trails; i++) {
-            while (Math.abs(x) - Math.abs(y) != r || Math.abs(x) - Math.abs(y) > r) {
+            while (Math.abs(x) + Math.abs(y) != r) {
                 double direction = Math.random();
                 // Go north
                 if (direction <= d1) {
