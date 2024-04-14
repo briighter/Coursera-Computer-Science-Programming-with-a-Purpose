@@ -4,11 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="loops and conditionals latest submission">
+    <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3_arrays/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_arrays/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_arrays/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_arrays/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_arrays/.lift/introcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_arrays/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_arrays/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_arrays/Computer Science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_hello/Barnsley.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_hello/Barnsley.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/BandMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/BandMatrix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_loops/BandMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/BandMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_loops/RandomWalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_loops/RandomWalkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/RandomWalkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_loops/loops.zip" beforeDir="false" afterPath="$PROJECT_DIR$/2_loops/loops.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/codeInsightSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/dictionaries/lift.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/externalDependencies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/externalDependencies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/file.template.settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/file.template.settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/findbugs-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/findbugs-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/inspectionProfiles/COS_126.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/inspectionProfiles/COS_126.xml.2020.1" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/inspectionProfiles/COS_126.xml.2020.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/libraries/introcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/libraries/introcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/saveactions_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/saveactions_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.lift/checkstyle-coursera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.lift/checkstyle-suppressions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.lift/spotbugs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/.lift/spotbugs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/Computer Science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/Computer Science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coursera-Computer-Science-Programming-with-a-Purpose/RandomWalker.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +62,11 @@
     </option>
   </component>
   <component name="FindBugs-IDEA-Workspace">
-    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <compileBeforeAnalyze>false</compileBeforeAnalyze>
+    <annotationTextRangeMarkup>false</annotationTextRangeMarkup>
+    <annotationGutterIcon>false</annotationGutterIcon>
     <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +89,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2evnueZtFC5ThSGe2uYv2B86m0b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -62,17 +104,36 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jason/Documents/code/coursera/Computer Science Programming with a Purpose&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jason/Documents/code/coursera/Computer Science Programming with a Purpose/3_arrays&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.17356321&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jason\Documents\code\coursera\Computer Science Programming with a Purpose\3_arrays" />
+      <recent name="C:\Users\jason\Documents\code\coursera\Computer Science Programming with a Purpose" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DiscreteDistribution">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="DiscreteDistribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiscreteDistribution" />
+      <module name="Coursera-Computer-Science-Programming-with-a-Purpose" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
     </configuration>
     <configuration name="RandomWalker" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="RandomWalker" />
@@ -91,6 +152,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiscreteDistribution" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +171,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="loops and conditionals latest submission" />
     <option name="LAST_COMMIT_MESSAGE" value="loops and conditionals latest submission" />
   </component>

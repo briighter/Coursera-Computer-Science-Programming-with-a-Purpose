@@ -1,5 +1,5 @@
 /* ****************************************************************************
- *  Compilation:  javac-introcs Barnsley.java
+ *  Compilation:  javac-introcs DiscreteDistribution.java
  *  Execution:    java-introcs Barnsley n
  *  Dependencies: StdDraw.java
  *
