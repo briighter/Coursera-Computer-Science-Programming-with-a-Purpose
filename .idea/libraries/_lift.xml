@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name=".lift">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/2_loops/.lift/introcs.jar!/" />
-      <root url="jar://$PROJECT_DIR$/2_loops/.lift/stdlib.jar!/" />
-      <root url="jar://$PROJECT_DIR$/2_loops/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/io/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/io/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/io/.lift/stdlib.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

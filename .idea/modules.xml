@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/3_arrays/3_arrays.iml" filepath="$PROJECT_DIR$/3_arrays/3_arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" filepath="$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
     </modules>
   </component>
 </project>
