@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/.lift/introcs.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.lift/spotbugs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/Checkerboard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/_lift.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/_lift1.xml" beforeDir="false" />
@@ -21,7 +22,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/io/ShannonEntropy.class" beforeDir="false" afterPath="$PROJECT_DIR$/io/ShannonEntropy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/ShannonEntropy.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/ShannonEntropy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/io/io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/io/io.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,6 @@
     <annotationTextRangeMarkup>false</annotationTextRangeMarkup>
     <annotationGutterIcon>false</annotationGutterIcon>
     <toolWindowToFront>false</toolWindowToFront>
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
