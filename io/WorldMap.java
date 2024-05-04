@@ -1,10 +1,13 @@
+import java.awt.Color;
+
 public class WorldMap {
     public static void main(String[] args) {
         // Get width & height
         int width = StdIn.readInt();
         int height = StdIn.readInt();
         StdDraw.setCanvasSize(width, height);   // 1000, 619
-
+        StdDraw.setXscale(0.0, width);
+        StdDraw.setYscale(0.0, height);
         // to speed up performance, defer displaying points
         StdDraw.enableDoubleBuffering();
 
@@ -28,6 +31,6 @@ public class WorldMap {
             }
             StdDraw.polygon(arrPX, arrPY);
         }
-        StdDraw.show();
+            StdDraw.show();
     }
 }
