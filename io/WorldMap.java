@@ -5,6 +5,9 @@ public class WorldMap {
         int height = StdIn.readInt();
         StdDraw.setCanvasSize(width, height);   // 1000, 619
 
+        // to speed up performance, defer displaying points
+        StdDraw.enableDoubleBuffering();
+
         while (!StdIn.isEmpty()) {
             // Get name of verticies
             String state = StdIn.readString();      // HI
@@ -23,31 +26,8 @@ public class WorldMap {
                 arrPX[i] = px;
                 arrPY[i] = py;
             }
-            StdDraw.polygon(arrPX,arrPY);
-
+            StdDraw.polygon(arrPX, arrPY);
         }
-
-
-        // Sample
-        // // read in bounding box and rescale
-        // double xmin = StdIn.readDouble();
-        // double ymin = StdIn.readDouble();
-        // double xmax = StdIn.readDouble();
-        // double ymax = StdIn.readDouble();
-        // StdDraw.setXscale(xmin, xmax);
-        // StdDraw.setYscale(ymin, ymax);
-        //
-        // // to speed up performance, defer displaying points
-        // StdDraw.enableDoubleBuffering();
-        //
-        // // plot points, one at a time
-        // while (!StdIn.isEmpty()) {
-        //     double x = StdIn.readDouble();
-        //     double y = StdIn.readDouble();
-        //     StdDraw.point(x, y);
-        // }
-        //
-        // // display all the points
-        // StdDraw.show();
+        StdDraw.show();
     }
 }

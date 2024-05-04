@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41ed1804-28bf-48f5-88cc-4c1379d603a1" name="Changes" comment="loops and conditionals latest submission">
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-coursera.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-lift.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-suppressions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/introcs.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/spotbugs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io/WorldMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/_lift.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/_lift1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/arrays.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/introcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera-Computer-Science-Programming-with-a-Purpose.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/Checkerboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/Checkerboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/ShannonEntropy.class" beforeDir="false" afterPath="$PROJECT_DIR$/io/ShannonEntropy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/io/io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io/WorldMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/WorldMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
