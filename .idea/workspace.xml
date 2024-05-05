@@ -36,9 +36,10 @@
       <change afterPath="$PROJECT_DIR$/functions/.lift/introcs.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/functions/.lift/spotbugs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/functions/.lift/stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ActivationFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/AudioCollage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/functions/CREDITS" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/functions/Computer Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/Divisors.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/functions/beatbox.wav" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/functions/buzzer.wav" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/functions/chimes.wav" afterDir="false" />
@@ -54,6 +55,7 @@
       <change afterPath="$PROJECT_DIR$/io/io.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/ActivationFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/functions/ActivationFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
